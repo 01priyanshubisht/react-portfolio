@@ -4,7 +4,7 @@
 
 ## What is this?
 
-This is simple portfolio template is designed to showcase my past projects, career history, skill sets, and more.
+This is simple portfolio designed to showcase my projects, career history, skill sets, and more.
 
 View the [Demo](https://github.com/01priyanshubisht/react-portfolio).
 
